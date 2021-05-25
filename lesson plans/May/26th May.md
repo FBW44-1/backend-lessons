@@ -9,6 +9,8 @@
 + Student Introductions
     + Project Presentations
 + Quick Quiz
+    - [General](https://github.com/FrancoSpeziali/quizzes/blob/master/general_javascript.md)
+    - [Code](https://github.com/FrancoSpeziali/quizzes/blob/master/code.md)
 
 
 ## Afternoon 13:00
