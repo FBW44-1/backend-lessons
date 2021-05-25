@@ -10,5 +10,5 @@
 
 ## Afternoon 13:00
 
-+ Assignment: Working with the node.js filesystem, using Promises
++ **Assignment**: Working with the node.js filesystem, using Promises
     - https://github.com/FrancoSpeziali/node-file-system-promises
