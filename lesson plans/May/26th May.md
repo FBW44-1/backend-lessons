@@ -17,3 +17,5 @@
 + Machine setup (node and npm)
 + Introduction to npm & package.json
 + Environment Variables in node.js
++ Assignment: Environment variables in node.js
+    - https://github.com/FrancoSpeziali/node-environment-variables
