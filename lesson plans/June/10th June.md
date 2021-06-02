@@ -8,4 +8,4 @@ This week's target: Able to build routes in Express
 
 ## Afternoon 13:00
 
-+ **Assignment**: Designing a REST API for a Planets dataset
++ **Assignment**:

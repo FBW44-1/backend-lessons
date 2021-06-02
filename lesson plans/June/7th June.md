@@ -7,9 +7,7 @@ This week's target: Able to build routes in Express
 + Solution: An Almost Simple Express Server
 + Talking about APIs
     - Recap: Requests and Responses
-+ Middleware
-    - express.json()
-    - cors() optional
++ Application Routing in Express
 + Bootstrapping today's assignment
 
 ## Afternoon 13:00
