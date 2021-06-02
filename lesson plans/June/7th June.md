@@ -10,7 +10,9 @@ This week's target: Able to build routes in Express
 + Middleware
     - express.json()
     - cors() optional
++ Bootstrapping today's assignment
 
 ## Afternoon 13:00
 
 + **Assignment**: Designing a REST API for our solar system
+  - https://github.com/FrancoSpeziali/express-solar-system-api
