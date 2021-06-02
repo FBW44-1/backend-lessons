@@ -17,4 +17,5 @@ This week's target: Build a server in Express.js
 
 ## Afternoon 13:00
 
-+ **Assignment**
++ **Assignment: create an API of cars** 
+   - https://github.com/GillesDCI/express-http-methods-assignment 
