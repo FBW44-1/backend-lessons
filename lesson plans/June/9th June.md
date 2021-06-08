@@ -1,4 +1,4 @@
-# Lesson Plan 7th June
+# Lesson Plan 9th June
 
 This week's target: Able to build routes in Express
 
@@ -6,5 +6,6 @@ This week's target: Able to build routes in Express
 
 + Recap: Application Routing
 + Connecting React to the backend
+    - CORS
 
 ## Afternoon 13:00
