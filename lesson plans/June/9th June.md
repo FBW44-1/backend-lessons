@@ -11,7 +11,7 @@ This week's target: Able to build routes in Express
     - How to configure CORS 
 
 ## Afternoon 13:00
-Assignment of yeseterday solar system. 
-Assignment create server with CORS : https://github.com/GillesDCI/post-book-assignment
-Assignment connect react backend to the server: https://github.com/GillesDCI/post-book-assignment-frontend
+- Assignment of yeseterday solar system. 
+- Assignment create server with CORS : https://github.com/GillesDCI/post-book-assignment
+- Assignment connect react backend to the server: https://github.com/GillesDCI/post-book-assignment-frontend
 
