@@ -6,7 +6,7 @@ This week's target: Able to build routes in Express
 
 + Recap: Application Routing
 + Connecting React to the backend
-    - what is CORS
+    - What is CORS
     - Why CORS
     - How to configure CORS 
 
