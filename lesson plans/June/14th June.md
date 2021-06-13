@@ -13,4 +13,5 @@ This week's target: Create a database, understand the terminology - records, sch
 
 ## Afternoon 13:00
 
-+ Assignment around Schemas
++ Mongoose Schemas + Models
+  https://github.com/FrancoSpeziali/db-mongoose-schemas
