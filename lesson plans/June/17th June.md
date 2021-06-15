@@ -6,7 +6,9 @@ This week's target: Create a database, understand the terminology - records, sch
 
 + Recap: Databases and Schemas
 + Validation
-+ Subdocuments and references
++ Saving data to the database
++ Thunder Client extension for Visual Studio Code
++ (introduction) Subdocuments and references
 
 ## Afternoon 13:00
 
