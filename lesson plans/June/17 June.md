@@ -7,7 +7,7 @@ This week's target: Create a database, understand the terminology - records, sch
 + Recap: Databases and Schemas
 + Validation
 + Saving data to the database
-+ (introduction) Subdocuments and references
+
 
 ## Afternoon 13:00
 
