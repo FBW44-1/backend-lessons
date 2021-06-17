@@ -7,10 +7,10 @@ This week's target: Create a database, understand the terminology - records, sch
 + Recap: Databases and Schemas
 + Validation
 + Saving data to the database
-+ Thunder Client extension for Visual Studio Code
 + (introduction) Subdocuments and references
 
 ## Afternoon 13:00
 
 + **Assignment**:
-
++ Continue with : Mongoose Schemas + Models https://github.com/FrancoSpeziali/db-mongoose-schemas
++ Optional assignment : database schemas 
