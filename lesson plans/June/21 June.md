@@ -4,6 +4,10 @@ This week's target: Basic CRUD operations with Mongoose
 
 ## Morning 09:00
 
++ Recap: Mongoose schema validation
++ Embedded documents and references
+
 ## Afternoon 13:00
 
-+ **Assignment**:
++ **Assignment**
+  - [db-wizards](https://github.com/FrancoSpeziali/db-wizards)
