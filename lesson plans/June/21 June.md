@@ -6,6 +6,7 @@ This week's target: Basic CRUD operations with Mongoose
 
 + Recap: Mongoose schema validation
 + Embedded documents and references
++ (optional) Introduction to CRUD
 
 ## Afternoon 13:00
 
