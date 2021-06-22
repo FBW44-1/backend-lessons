@@ -4,7 +4,7 @@ This week's target: Basic CRUD operations with Mongoose
 
 ## Morning 09:00
 
-+ CRUD Overview
++ Solution: db-mongoose-schemas
 + Schemas and References Retold
 
 ## Afternoon 13:00
