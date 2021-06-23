@@ -12,4 +12,4 @@ This week's target: Basic CRUD operations with Mongoose
 
 ## Afternoon 13:00
 
-+ **Assignment**:
++ **Assignment**:https://github.com/GillesDCI/db-crud-operations-assignment
