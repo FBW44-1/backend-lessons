@@ -14,3 +14,4 @@ This week's target: Custom Validation & Advanced CRUD Operations
 ## Afternoon 13:00
 
 + **Assignment**:
+  - [db-movies-rest-api](https://github.com/FrancoSpeziali/db-movies-rest-api)
