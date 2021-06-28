@@ -10,6 +10,7 @@ This week's target: Custom Validation & Advanced CRUD Operations
     - findOneAndReplace()
     - findOneAndDelete()
     - findByIdAndDelete()
++ MongoDB Update Operators
 
 ## Afternoon 13:00
 
