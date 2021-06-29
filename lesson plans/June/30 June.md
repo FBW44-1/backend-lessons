@@ -8,8 +8,8 @@ This week's target: Custom Validation & Advanced CRUD Operations
   - MVC
   - What is MVC
   - Why MVC 
-  - 
-+ Converting application
+
++ Converting application to MVC 
 
 
 ## Afternoon 13:00
