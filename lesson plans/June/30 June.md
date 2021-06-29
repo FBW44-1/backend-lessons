@@ -1,13 +1,16 @@
-# Lesson Plan 29th June
+# Lesson Plan 30th June
 
 This week's target: Custom Validation & Advanced CRUD Operations
 
 ## Morning 09:00
 
-+ Solution: db-crud-operations-assignment part 2
 + Coding Patterns
   - MVC
-  - Layered Pattern
+  - What is MVC
+  - Why MVC 
+  - 
++ Converting application
+
 
 ## Afternoon 13:00
 
