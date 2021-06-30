@@ -1,4 +1,4 @@
-# Lesson Plan 1st June
+# Lesson Plan 1st July
 
 This week's target: Custom Validation & Advanced CRUD Operations
 
