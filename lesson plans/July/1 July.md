@@ -9,7 +9,7 @@ This week's target: Custom Validation & Advanced CRUD Operations
     - What is Layered pattern
     - Why Layered pattern 
 
-+ Add layered patttern to our project
++ Add layered pattern to our project
 
 ## Afternoon 13:00
 
