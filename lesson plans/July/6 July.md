@@ -11,4 +11,4 @@ This week's target: Authenticate a user
 ## Afternoon 13:00
 
 + **Assignment**:
-  
+  - https://github.com/FrancoSpeziali/security-bcrypt
