@@ -4,7 +4,7 @@ This week's target: Authenticate a user
 
 ## Morning 09:00
 
-+ Introduce JWT
++ Introduction JWT
   - What is JWT
   - Why do we use it? 
   - How do we use it? 
