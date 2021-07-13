@@ -6,6 +6,7 @@ This week's target: Authorise a user
 
 + JWT (recap)
 + Working with Passport and JWT
++ Authorizing route using Passport
 
 ## Afternoon 13:00
 
